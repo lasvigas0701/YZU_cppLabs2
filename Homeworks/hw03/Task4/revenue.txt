@@ -1,0 +1,21 @@
+2 3 4deluxe01
+62650
+deluxe02
+50875
+premium01
+44100
+premium02
+31500
+premium03
+47250
+business01
+24000
+business02
+15000
+business03
+30000
+==============
+Excellent Room:
+deluxe01
+premium02
+business01

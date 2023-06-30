@@ -1,0 +1,14 @@
+3 1 2
+name: Chia-hao
+33000
+name: Chih-ming
+165000
+name: Chun-chieh
+55000
+Chien-hung
+8250
+Chih-hao
+66000
+Chih-wei
+38500
+365750

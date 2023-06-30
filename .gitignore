@@ -1,0 +1,8 @@
+*.zip
+otherPPL/
+Homeworks(sln)/
+.vs/
+x64/
+*.sln
+*.vcxproj*
+W*/
