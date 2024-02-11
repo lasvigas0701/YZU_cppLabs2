@@ -7,7 +7,7 @@ CPP practice class in spring semester of freshmen year (2022S/1112)
 ### Course Name: 
 - 基礎程式設計-C++實習（二） / Fundamental Computer Programming- C++ Lab(II)
 
-### Teacher: 
+### Professor: 
 - 胡光泰 / Quang-Thai Ho
 
 ### Time: 
